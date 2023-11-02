@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "606917142763",
+    "project_id": "signin-signup-auth-ebff3",
+    "storage_bucket": "signin-signup-auth-ebff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606917142763:android:95c0d65573fba11f7676ae",
+        "android_client_info": {
+          "package_name": "com.example.ecommercedesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVuL2uiM5Bc0Qnvahjih-tL9xjqxqtMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606917142763:android:4a449cdab75816ff7676ae",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVuL2uiM5Bc0Qnvahjih-tL9xjqxqtMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606917142763:android:53f4a5be541157dc7676ae",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVuL2uiM5Bc0Qnvahjih-tL9xjqxqtMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

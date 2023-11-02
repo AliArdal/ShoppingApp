@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaplan">#5E35B1</color>
+    <color name="grayishWhite">#F1EDED</color>
+    <color name="greyishtext">#474444</color>
+    <color name="statusbar">#ffffff</color>
+    <color name="tema">#00897B</color>
+    <color name="gri">#E9E9E9</color>
+    <color name="turuncu">#FEA900</color>
+    <color name="sarı">#FEFE00</color>
+</resources>
