@@ -1,6 +1,6 @@
 # ShoppingApp
 
-SignIn - SignUp - ResetPassword ->Firebase Auth
+SignIn - SignUp - ResetPassword ->Firebase Auth // 
 DB Browser for SQLite
 
 
